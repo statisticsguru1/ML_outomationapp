@@ -8,7 +8,7 @@ MyStreamlitApp is a Streamlit-based web application designed to streamline the m
 
 You can access MyStreamlitApp online by visiting the following link:
 
-[MyStreamlitApp](https://appapp-qnebc74f2xhhqkx2s6ypwr.streamlit.app/)
+[MyStreamlitApp](https://myappapp-eugarzydt56fgebfsd4wok.streamlit.app/)
 
 https://myappapp-eugarzydt56fgebfsd4wok.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,disable_scrolling,show_padding,show_footer,dark_theme
 
@@ -58,7 +58,7 @@ One limitation of MyStreamlitApp is that every time new data is uploaded through
 
 ## Feedback and Support
 
-If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to submit [submit an issue](https://github.com/yourusername/mystreamlitapp/issues) on GitHub.
+If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to submit [submit an issue](https://github.com/statisticsguru1/mystreamlitapp/issues) on GitHub.
 
 ## Credits
 
