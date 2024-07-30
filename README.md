@@ -10,6 +10,8 @@ You can access MyStreamlitApp online by visiting the following link:
 
 [MyStreamlitApp](https://appapp-qnebc74f2xhhqkx2s6ypwr.streamlit.app/)
 
+https://myappapp-eugarzydt56fgebfsd4wok.streamlit.app/?embed_options=show_toolbar,light_theme,show_colored_line,disable_scrolling,show_padding,show_footer,dark_theme
+
 ## Usage Instructions
 
 1. Upload Data: Start by uploading your dataset using the provided interface.
@@ -56,11 +58,11 @@ One limitation of MyStreamlitApp is that every time new data is uploaded through
 
 ## Feedback and Support
 
-If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to submit an issue or [submit an issue](https://github.com/yourusername/mystreamlitapp/issues) on GitHub.
+If you have any feedback, encounter issues, or have suggestions for improvement while using MyStreamlitApp, please feel free to submit [submit an issue](https://github.com/yourusername/mystreamlitapp/issues) on GitHub.
 
 ## Credits
 
-MyStreamlitApp was developed by Wafa..
+MyStreamlitApp was developed by Fesnic
 
 ## License
 
